@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Androidtutorial7</string>
+    <string name="get_random_number">get random number</string>
+    <string name="start_image_slider">start image slider</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="activity_names">
+        <item>P001RandNextInt</item>
+        <item>P002</item>
+        <item>P003OpenAnUrl</item>
+        <item>P004newString</item>
+        <item>P005</item>
+    </string-array>
+</resources>
