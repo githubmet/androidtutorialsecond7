@@ -18,7 +18,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".P001RandNextInt"/>
         <activity android:name=".P003OpenAnUrl"/>
         <activity android:name=".P004newString"/>
     </application>
